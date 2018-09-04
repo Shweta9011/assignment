@@ -1,8 +1,6 @@
 
 
 
-<<<<<<< HEAD
+
 This is an assignment for git. Hello there
-=======
-This is an assignment for git for learning git conflict.
->>>>>>> 77dcd8b7f99973a5c8feece3398f291da2377831
+
